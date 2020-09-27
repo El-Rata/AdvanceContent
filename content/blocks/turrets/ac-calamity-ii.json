@@ -1,8 +1,8 @@
 {
 	"size": 8,
-	"health": 9750,
-	"range": 300,
-	"reload": 180,
+	"health": 975000,
+	"range": 30000,
+	"reload": 10,
 	"coolantMultiplier": 0.6,
 	"shootCone": 40,
 	"shootDuration": 320,
@@ -30,14 +30,14 @@
 		}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 1300 },
-		{ "item": "lead", "amount": 980 },
-		{ "item": "graphite", "amount": 1100 },
-		{ "item": "titanium", "amount": 750 },
-		{ "item": "surge-alloy", "amount": 960 },
-		{ "item": "silicon", "amount": 900 },
-		{ "item": "thorium", "amount": 770 },
-		{ "item": "advance-alloy", "amount": 270 }
+		{ "item": "copper", "amount": 130 },
+		{ "item": "lead", "amount": 98 },
+		{ "item": "graphite", "amount": 11 },
+		{ "item": "titanium", "amount": 75 },
+		{ "item": "surge-alloy", "amount": 96 },
+		{ "item": "silicon", "amount": 90 },
+		{ "item": "thorium", "amount": 77 },
+		{ "item": "advance-alloy", "amount": 27 }
 	],
 	"category": "turret",
 	"research": "ac-calamity",
